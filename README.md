@@ -14,6 +14,7 @@
   - [쿠버네티스 이해하기](docs/03-01_kubernetes-overview.md)
   - [쿠버네티스 기본 사용법](docs/03-02_kubernetes-basic-usage.md)
   - [쿠버네티스 연결을 담당하는 서비스](docs/03-03_kubernetes-services.md)
+  - [쿠버네티스 오브젝트](docs/03-04_kubernetes-object.md)
 ---
 
 ## 🧪 실습 정리 (labs/)
